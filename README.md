@@ -42,6 +42,3 @@ This is a simple voice-controlled game built with Python and Pygame. The player 
 - Add more game mechanics such as obstacles and power-ups.
 - Enhance speech recognition for better accuracy.
 - Implement different difficulty levels.
-
-## Author
-Developed as part of an AI-powered game experiment.
